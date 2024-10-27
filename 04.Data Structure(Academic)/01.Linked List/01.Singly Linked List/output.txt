@@ -1,0 +1,7 @@
+Linked list is Empty !!
+NULL
+Enetr number of NOde to create : Enter value : 1->NULL
+Enter value : 1->2->NULL
+Enter value : 1->2->3->NULL
+Enter value : 1->2->3->4->NULL
+Enter value : 1->2->3->4->5->NULL
